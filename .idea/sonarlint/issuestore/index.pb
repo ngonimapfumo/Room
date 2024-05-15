@@ -9,3 +9,15 @@ _
 /app/src/main/java/com/ngonim/room/ContactDao.kt,c/1/c1bcdbb5898fffd5578fdfc7e1051232033acd26
 d
 4app/src/main/java/com/ngonim/room/ContactDatabase.kt,3/2/328920e12a97d709a2f88d1cdf402a26f721e2c3
+a
+1app/src/main/java/com/ngonim/room/ContactEvent.kt,e/9/e9448c961fa5b0f264a3b0f4a7507ef362bb8d49
+X
+(app/src/main/java/com/ngonim/SortType.kt,c/3/c3b29feabe53966ed5a5ac415c4a750152c7851a
+a
+1app/src/main/java/com/ngonim/room/ContactState.kt,0/2/02b686c4e10c810dbfe33bd9e90b1ba85cb51d89
+e
+5app/src/main/java/com/ngonim/room/ContactViewModel.kt,b/2/b2671ca188ae3d884ec46ca7626cb313707c51ad
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
